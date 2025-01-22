@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Visualization
 - 🌱 I’m currently learning Python,R and MySQL
 
-- 📫 How to reach me - somyaagrawal930@gmail.com
+- 📫 How to reach me - somyaagrawal930@gmail.com , www.linkedin.com/in/somya-agrawal-754870240
 - 😄 Pronouns: She/her
   
 
