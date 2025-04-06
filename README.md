@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Somya-Agrawal-DataAnalyst
+- 👋 Hi, I’m Somya Agrawal
 - 👀 I’m interested in Data Analysis and Visualization
 - 🌱 I’m currently learning Python,R and MySQL
 
