@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somya Agrawal</h1>
 <h3 align="center">A passionate Business Analyst</h3>
 
-<img align="right" alt="image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fflowbird.co.uk%2Fblog%2Fthe-crm-revolution-navigating-the-business-landscape&psig=AOvVaw0vXZpxYcW_vggvAVpt2Eag&ust=1753280354524000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCNm7rU0I4DFQAAAAAdAAAAABAE"/>
+<img align="right" img width="824" height="612" alt="image" src="https://github.com/user-attachments/assets/2d61d699-5a8b-44fe-82f1-1f5a7a8350de" />
 
 - 🌱 I’m currently learning **Python and SQL**
 
