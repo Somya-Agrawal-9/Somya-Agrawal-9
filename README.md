@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somya Agrawal</h1>
 <h3 align="center">A passionate Business Analyst</h3>
 
-<img align="right" alt="analysis" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nimishajalota28%2Fhow-people-working-in-data-field-are-a-great-asset-to-an-organization-99e889f9bd1f&psig=AOvVaw35p7PnbLLSWVFHKUf9b96N&ust=1753279846825000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjt6snS0I4DFQAAAAAdAAAAABBb">
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/2b19251c-a11d-413c-bdf7-a9c9ebe33bd8" />
 
 - 🌱 I’m currently learning **Python and SQL**
 
