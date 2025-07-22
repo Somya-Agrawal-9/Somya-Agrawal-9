@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somya Agrawal</h1>
 <h3 align="center">A passionate Business Analyst</h3>
 
-<img align="right" img width="824" height="612" alt="image" src="https://github.com/user-attachments/assets/2d61d699-5a8b-44fe-82f1-1f5a7a8350de" />
+<img align="right" img width="400" height="612" alt="image" src="https://github.com/user-attachments/assets/2d61d699-5a8b-44fe-82f1-1f5a7a8350de" />
 
 - 🌱 I’m currently learning **Python and SQL**
 
